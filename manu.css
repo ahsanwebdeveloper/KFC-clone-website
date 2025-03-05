@@ -1,0 +1,28 @@
+.nav-2 ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+}
+.nav-2 ul li{
+    background-color: #1C1816;
+    height: 8vh;
+    border-radius: 10px;
+    padding: 1vw;
+}
+.nav-2 ul a{
+    text-decoration: none;
+    font-size: 1.5vw;
+}
+.nav-2 ul li:hover{
+   background-color:#E9002A ;
+}
+.explore a{
+    text-decoration: none;
+}
+.product{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
